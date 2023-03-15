@@ -10,3 +10,16 @@
 * The Git commit history of your project should prove that your code should be developed using TDD principles. No functionality should be added without a test requiring it, and the change should be the simplest possible. Refactoring (i.e. removing redundancy or increasing clarity without changing functionality at all) should not change tests at all. When refactoring, commit to Git after *every* change as soon as all tests pass. If your Git history doesn't show you're following TDD, I'll ask you to start over. Please feel free to show me your first few commits if you're not sure that you're complying with this.
 * No need for a `public static void main(){}` or `[System.in](http://System.in)` or `System.out` ... all behavior can (and should) be tested using unit tests.
 * No examples should involve Animals, Plants, Cars, Colors, Shapes, Collections, Bank Accounts, Employees, or other cliches.
+
+
+
+## Requirement checks
+
+    * Interface
+    * Abstraction - comment referencing
+    * Encapsulation - comment referencing
+    * Polymorphism - comment referencing
+    * Inheritance - comment referencing
+        - two examples: one extending a concrete class and one extending an abstract class
+        - ensure that having the parent class be that way is necessary for the example to make sense.
+    * TDD only
