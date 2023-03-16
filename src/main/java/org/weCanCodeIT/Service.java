@@ -1,4 +1,25 @@
 package org.weCanCodeIT;
 
-public abstract class Service implements ServiceInterface {
+public class Service implements ServiceInterface {
+    private String customerProblem;
+
+    public Service(String customerProblem) {
+        this.customerProblem = customerProblem;
+    }
+    public Service() {
+
+    }
+    public String getCustomerProblem() {
+        return customerProblem;
+    }
+
+    @Override
+    public void stateProblem(String problem) {
+
+    }
+
+    @Override
+    public String getEstimate() {
+        return null;
+    }
 }
