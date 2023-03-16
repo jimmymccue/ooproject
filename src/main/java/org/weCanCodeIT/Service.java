@@ -1,4 +1,4 @@
 package org.weCanCodeIT;
 
-public class Service {
+public class Service implements ServiceInterface {
 }
