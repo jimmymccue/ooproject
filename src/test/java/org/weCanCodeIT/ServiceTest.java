@@ -15,4 +15,11 @@ class ServiceTest {
         Service service = new Service("I need an oil change");
         assertEquals("I need an oil change", service.getCustomerProblem());
     }
+
+    @Test
+    public void testGetEstimate() {
+        ServiceInterface service = new Service("I need an oil change");
+        String estimate = "";
+        assertEquals(estimate, service.getEstimate());
+    }
 }

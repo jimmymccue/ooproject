@@ -2,6 +2,7 @@ package org.weCanCodeIT;
 
 public class Service implements ServiceInterface {
     private String customerProblem;
+    private String estimate = "";
 
     public Service(String customerProblem) {
         this.customerProblem = customerProblem;
@@ -20,6 +21,6 @@ public class Service implements ServiceInterface {
 
     @Override
     public String getEstimate() {
-        return null;
+        return this.estimate;
     }
 }
