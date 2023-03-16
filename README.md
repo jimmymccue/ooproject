@@ -1,3 +1,9 @@
+# My OO Project
+
+    I am going to create an app where someone can get a "service".  That service could be an oil change, tire rotation
+    or something of that nature.
+    
+
 # Overview
 
 * Questions about core object-oriented principles are a traditional part of the interviewing process for junior Java programmers.  The best strategy for answering such questions is usually to give *concrete* examples, rather than trying to use jargon to talk in generalities. Having a number of good examples is therefore most useful, but everyone is sick of examples involving Animals or Cars.
