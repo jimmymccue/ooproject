@@ -1,4 +1,4 @@
 package org.weCanCodeIT;
 
-public class OilChange extends Service {
+public abstract class OilChange extends Service {
 }

@@ -5,10 +5,6 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class ServiceTest {
-    @Test
-    public void testCreateService() {
-        ServiceInterface service = new OilChange();
-    }
 
     @Test
     public void testSetCustomerProblem() {
