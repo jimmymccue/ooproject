@@ -25,7 +25,7 @@
 - [x] Abstraction 
 - [x]   comment referencing
 - [x] Encapsulation  
-- [ ]   comment referencing
+- [x]   comment referencing
 - [x] Polymorphism  
 - [x]   comment referencing
 - [x] Inheritance  
