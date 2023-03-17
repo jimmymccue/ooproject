@@ -23,7 +23,7 @@
 
 - [x] Interface
 - [x] Abstraction 
-- [ ]   comment referencing
+- [x]   comment referencing
 - [x] Encapsulation  
 - [ ]   comment referencing
 - [x] Polymorphism  
