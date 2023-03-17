@@ -3,10 +3,9 @@ package org.weCanCodeIT;
 public class Service implements ServiceInterface {
     private String customerProblem;
     private String estimate = "";
-
-    public Service(String customerProblem) {
-        this.customerProblem = customerProblem;
-    }
+//
+//    public Service(String customerProblem) {
+//    }
     public Service() {
 
     }
@@ -16,7 +15,7 @@ public class Service implements ServiceInterface {
 
     @Override
     public void stateProblem(String problem) {
-
+        this.customerProblem = problem;
     }
 
     @Override
