@@ -26,8 +26,8 @@
 - [ ]   comment referencing
 - [x] Encapsulation  
 - [ ]   comment referencing
-- [ ] Polymorphism  
-- [ ]   comment referencing
+- [x] Polymorphism  
+- [x]   comment referencing
 - [x] Inheritance  
 - [ ]   comment referencing
 - [x]   one extending a concrete class
