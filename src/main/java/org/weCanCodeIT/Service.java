@@ -1,6 +1,10 @@
 package org.weCanCodeIT;
 
 public class Service implements ServiceInterface {
+
+    //Inheritance-- OilChange and BasicInspection inherits from Service.  They both have access to the public and
+    // protected attributes and methods contained here.
+
     private String customerProblem;
     private String estimate = "";
 
@@ -8,7 +12,7 @@ public class Service implements ServiceInterface {
 
     }
 
-    public String getCustomerProblem() {
+    protected String getCustomerProblem() {
         return customerProblem;
     }
 

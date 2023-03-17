@@ -29,8 +29,8 @@
 - [x] Polymorphism  
 - [x]   comment referencing
 - [x] Inheritance  
-- [ ]   comment referencing
+- [x]   comment referencing
 - [x]   one extending a concrete class
 - [x]   one extending an abstract class
-- [ ]   ensure that having the parent class be that way is necessary for the example to make sense.
-- [ ] TDD only
+- [x]   ensure that having the parent class be that way is necessary for the example to make sense.
+- [x] TDD only
