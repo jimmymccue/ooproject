@@ -6,7 +6,7 @@ public class Service implements ServiceInterface {
     // protected attributes and methods contained here.
 
     private String customerProblem;
-    private String estimate = "";
+    private final String estimate = "";
 
     public Service() {
 
