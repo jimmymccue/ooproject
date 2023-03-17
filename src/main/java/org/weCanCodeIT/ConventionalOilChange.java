@@ -1,4 +1,4 @@
 package org.weCanCodeIT;
 
-public class ConventionalOilChange extends OilChange{
+public class ConventionalOilChange extends OilChange {
 }

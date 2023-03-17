@@ -1,4 +1,4 @@
 package org.weCanCodeIT;
 
-public class AdvancedInspection extends BasicInspection{
+public class AdvancedInspection extends BasicInspection {
 }

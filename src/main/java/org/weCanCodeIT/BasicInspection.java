@@ -1,4 +1,4 @@
 package org.weCanCodeIT;
 
-public class BasicInspection extends Service{
+public class BasicInspection extends Service {
 }
