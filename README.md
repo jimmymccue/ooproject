@@ -30,7 +30,7 @@
 - [ ]   comment referencing
 - [x] Inheritance  
 - [ ]   comment referencing
-- [ ]   one extending a concrete class
+- [x]   one extending a concrete class
 - [x]   one extending an abstract class
 - [ ]   ensure that having the parent class be that way is necessary for the example to make sense.
 - [ ] TDD only
